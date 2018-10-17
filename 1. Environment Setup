@@ -1,0 +1,10 @@
+Login in to OSC through ssh
+
+```
+ssh -X osu10343@owens.osc.edu
+```
+
+Go to home directory: ```cd $HOME ```
+Make sure you are in home directory: ```pwd ```
+Load R and start: ``` load module R/3.5.0 ```
+Run R: ```R```

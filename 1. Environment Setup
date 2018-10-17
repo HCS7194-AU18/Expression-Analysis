@@ -1,8 +1,4 @@
-Login in to OSC through ssh
-
-```
-ssh -X osu10343@owens.osc.edu
-```
+Login in to OSC through: ```cd /fs/scratch/PAS1407/osuXXXXX/```
 
 Go to home directory: ```cd $HOME ```
 Make sure you are in home directory: ```pwd ```
